@@ -1,6 +1,4 @@
 // Title: Road Lighting Optimization (Question 2 solution)
-// Name: zeineddin zidan
-// Id: 99621968516
 // Description: Computes maximum road length that can be turned off
 //              while keeping each graph connected (total - MST).
 import java.io.*;

@@ -1,6 +1,4 @@
 // Title: Milk Delivery (Question 1 solution)
-// Name: Zeineddin zidan
-// Id: 99621968516
 // Description: Computes minimum travel time from city 1 to city N with roads and
 //              a subway system connecting K cities with constant cost T between any two subway cities.
 //              Uses Dijkstra and an efficient technique to account for subway transfers
